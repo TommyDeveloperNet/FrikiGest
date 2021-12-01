@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrikiGest", "FrikiGest\FrikiGest.csproj", "{41C1D027-B697-410E-A21A-9E67E8831EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C1D027-B697-410E-A21A-9E67E8831EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C1D027-B697-410E-A21A-9E67E8831EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C1D027-B697-410E-A21A-9E67E8831EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C1D027-B697-410E-A21A-9E67E8831EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57C35C1-DC31-468F-A229-19AFECF68510}
+	EndGlobalSection
+EndGlobal
