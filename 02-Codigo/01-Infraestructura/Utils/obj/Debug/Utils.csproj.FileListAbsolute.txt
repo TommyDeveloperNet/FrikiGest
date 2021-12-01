@@ -1,0 +1,6 @@
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Utils\bin\Debug\Utils.dll
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Utils\bin\Debug\Utils.pdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Utils\obj\Debug\Utils.dll
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Utils\obj\Debug\Utils.pdb

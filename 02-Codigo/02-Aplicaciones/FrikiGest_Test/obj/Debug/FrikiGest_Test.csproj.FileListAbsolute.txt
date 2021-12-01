@@ -1,0 +1,8 @@
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\bin\Debug\Data\BBDDFrikiGest.accdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\bin\Debug\FrikiGest_Test.exe.config
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\bin\Debug\FrikiGest_Test.exe
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\bin\Debug\FrikiGest_Test.pdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\obj\Debug\FrikiGest_Test.csprojAssemblyReference.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\obj\Debug\FrikiGest_Test.csproj.CoreCompileInputs.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\obj\Debug\FrikiGest_Test.exe
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest_Test\obj\Debug\FrikiGest_Test.pdb

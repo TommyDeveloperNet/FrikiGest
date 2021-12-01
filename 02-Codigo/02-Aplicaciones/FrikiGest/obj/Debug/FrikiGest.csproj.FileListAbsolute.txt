@@ -1,0 +1,10 @@
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\bin\Debug\Data\BBDDFrikiGest.accdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\bin\Debug\FrikiGest.exe.config
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\bin\Debug\FrikiGest.exe
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\bin\Debug\FrikiGest.pdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\obj\Debug\FrikiGest.csprojAssemblyReference.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\obj\Debug\FrikiGest.Properties.Resources.resources
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\obj\Debug\FrikiGest.csproj.GenerateResource.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\obj\Debug\FrikiGest.csproj.CoreCompileInputs.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\obj\Debug\FrikiGest.exe
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\02-Aplicaciones\FrikiGest\obj\Debug\FrikiGest.pdb
