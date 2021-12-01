@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada a un ensamblado.
-[assembly: AssemblyTitle("FrikiGest")]
+[assembly: AssemblyTitle("FrikiGest_Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FrikiGest")]
+[assembly: AssemblyProduct("FrikiGest_Test")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("41c1d027-b697-410e-a21a-9e67e8831ee8")]
+[assembly: Guid("728dca74-5c03-4a74-8517-99cb202a522a")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
