@@ -1,0 +1,9 @@
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\bin\Debug\ConnBBDD.dll
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\bin\Debug\ConnBBDD.pdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\bin\Debug\Utils.dll
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\bin\Debug\Utils.pdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\obj\Debug\ConnBBDD.csprojAssemblyReference.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\obj\Debug\ConnBBDD.csproj.CoreCompileInputs.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\obj\Debug\ConnBBDD.csproj.CopyComplete
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\obj\Debug\ConnBBDD.dll
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\ConnBBDD\obj\Debug\ConnBBDD.pdb

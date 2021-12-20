@@ -1,0 +1,5 @@
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Fathers\bin\Debug\Fathers.dll
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Fathers\bin\Debug\Fathers.pdb
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Fathers\obj\Debug\Fathers.csproj.CoreCompileInputs.cache
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Fathers\obj\Debug\Fathers.dll
+D:\Varios\Desarrollos\02-FrikiGest\02-Codigo\01-Infraestructura\Fathers\obj\Debug\Fathers.pdb
